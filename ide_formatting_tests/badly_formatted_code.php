@@ -16,4 +16,4 @@ $teamPositions = array(
 
 
 
-if ($teamPositions["Kudos King"] != "Ernesto") { echo "???";};
+if ($teamPositions["Kudos King"] != "Ernesto") { echo "¿Por qué don Ernesto, Por qué?";};
